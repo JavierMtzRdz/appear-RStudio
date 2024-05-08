@@ -2,7 +2,7 @@
 
 This repository contains my personal customizations of RStudio in Mac, including a [dark icon by Amir Masoud](https://github.com/amirmasoudabdol/rstudio-icons?tab=readme-ov-file), a theme based on [{rsthemes}](https://github.com/gadenbuie/rsthemes) and [CodeFira](https://github.com/tonsky/FiraCode) font. The final look should be similar to this.
 
-![](/Users/javiermtz/Library/Mobile Documents/com~apple~CloudDocs/code-projects/appear-RStudio/figs/example.png)
+![example](figs/example.png)
 
 - [Getting Started](#getting-Started)
   - [Prerequisites](#prerequisites)
